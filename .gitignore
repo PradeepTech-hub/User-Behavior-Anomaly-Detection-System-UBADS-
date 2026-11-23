@@ -32,6 +32,8 @@ models/anomaly-detection/
 *.db-shm
 *.db-wal
 *.sqlite3
+*.backup*
+*.bak
 
 # Node / frontend (future phase)
 node_modules/
